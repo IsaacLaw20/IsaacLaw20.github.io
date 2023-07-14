@@ -1,6 +1,6 @@
 html {
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
-  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  font-size: 10px; 
+  font-family: "Open Sans", sans-serif; 
 }
 h1 {
   font-size: 60px;
@@ -20,7 +20,8 @@ html {
 img {
   display: block;
   margin: 0 auto;
-  width: 600px
-  height: 450px
+  width: 600px;
+  height: 450px;
+  object-fit: fill;
 }
 
